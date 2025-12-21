@@ -335,9 +335,7 @@ export function TestimonialsSection() {
           </div>
         </div>
 
-        
-
-        
+      </div>
     </section>
   )
 }
