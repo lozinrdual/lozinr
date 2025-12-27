@@ -340,8 +340,7 @@ export default function ProjectGalleryPage() {
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.6, delay: 0.3 }}
                   viewport={{ once: true }}
-                >
-                  
+                />
               </div>
 
               {/* Results Section */}
