@@ -335,13 +335,6 @@ export default function ProjectGalleryPage() {
                   <p className="text-white text-[18px] leading-tight font-medium">{projectData.client}</p>
                 </motion.div>
 
-                <motion.div
-                  initial={{ opacity: 0, y: 20 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.6, delay: 0.3 }}
-                  viewport={{ once: true }}
-                >
-                  
               </div>
 
               {/* Results Section */}
